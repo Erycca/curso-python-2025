@@ -1,11 +1,32 @@
 # %%
+texto = """
+   Escolha sua água para comprar 
+   (1) Agua mineral natural 
+   (2) Agua mineral com gas
+"""
 
-idade = 15
+opcao = input(texto)
 
-if idade >= 18:
-    print("Voce pode beber cerveja!")
-    print("Beba Cerveja Com moderação!")
+conta = 0
 
-else: 
-    print("Voce não pode beber cerveja!")
-    print("Va para sua casa!")
+if opcao == "1":
+   conta ==1.5
+elif opcao == "2":
+    conta = 2.5
+    
+    if conta == 0:
+     print("Entre com a opção correta")
+
+    else:
+     print("Sua conta é :R$ ",   conta)
+
+
+
+
+
+   
+
+
+
+
+
