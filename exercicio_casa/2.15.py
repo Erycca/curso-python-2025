@@ -12,4 +12,4 @@ for i in lista:
     if i == numero:
         contador += 1
 
-print("Quantidade de ", numero, ":". contador)       
+print("Quantidade de ", numero, ":",contador)       
