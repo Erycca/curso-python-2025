@@ -51,7 +51,13 @@ for i in dados_teo:
 # %%
 
 for chave in dados_teo:
-        print(chave, "->", dados_teo[chave])          
+        print(chave, "->", dados_teo[chave])    
+
+# %%
+
+for chave, valor in dados_teo.items():
+        print(chave, "->", valor)    
+
 
 
 
