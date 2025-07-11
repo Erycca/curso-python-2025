@@ -6,7 +6,7 @@ while True:
 
      if frase == "":
          break
-     
+              
      if frase not in dados:
           dados[frase] = 1
      else:
@@ -20,6 +20,9 @@ items.sort(key=lambda x:[-1], reverse=True)
 
 for i, j in items:
      print(i, "->". j)
+
+
+
 
 
 
