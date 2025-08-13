@@ -1,0 +1,47 @@
+[
+    {
+        "cep": "09990-240",
+        "logradouro": "Rua Araci",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Conceição",
+        "localidade": "Diadema",
+        "uf": "SP",
+        "estado": "São Paulo",
+        "regiao": "Sudeste",
+        "ibge": "3513801",
+        "gia": "2860",
+        "ddd": "11",
+        "siafi": "6377"
+    },
+    {
+        "cep": "11740-662",
+        "logradouro": "Travessa Itupeva",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Suarão",
+        "localidade": "Itanhaém",
+        "uf": "SP",
+        "estado": "São Paulo",
+        "regiao": "Sudeste",
+        "ibge": "3522109",
+        "gia": "3694",
+        "ddd": "13",
+        "siafi": "6543"
+    },
+    {
+        "cep": "11742-660",
+        "logradouro": "Rua José Marques",
+        "complemento": "até 698/699",
+        "unidade": "",
+        "bairro": "Savoy",
+        "localidade": "Itanhaém",
+        "uf": "SP",
+        "estado": "São Paulo",
+        "regiao": "Sudeste",
+        "ibge": "3522109",
+        "gia": "3694",
+        "ddd": "13",
+        "siafi": "6543"
+    }
+]
